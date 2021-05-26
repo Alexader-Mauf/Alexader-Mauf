@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexader-Mauf
-- 👀 I’m interested in Philosophy, Skiing, Gaming
+- 👀 I’m interested in Philosophy, Skiing, Gaming, Climbing
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on a Rap-Song
 - 📫 How to reach me ... twitch.tv/axelmao
